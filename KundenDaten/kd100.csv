@@ -1,0 +1,101 @@
+Geschlecht,Alter,Kinder,Familienstand,Berufstaetig,Einkaufstag,Einkaufsuhrzeit,Wohnort,Haushaltsnettoeinkommen,Stammkunde,Einkaufssumme,Elektrowerkzeuge,Eisenwaren,Handwerkzeuge,Sanitaermaterial,Schliesstechnik,Fliesen,Farben,Armaturen,Renovierung,Elektromaterial,Baustoffe,Holz,Bodenbelag,Leuchten,Gartengeraete
+w,18-30,nein,Partnerschaft,ja,Montag,10-12 Uhr,> 25 km,2000-<3200,1 bis 5,80,64,0,16,0,0,0,0,0,0,0,0,0,0,0,0
+m,51-60,ja,Partnerschaft,nein,Samstag,10-12 Uhr,< 10 km,<1000,1 bis 5,599,0,4,38,0,0,0,46,0,0,0,321,0,228,0,0
+w,31-40,ja,ledig,ja,Samstag,10-12 Uhr,10 - 25 km,1000-<2000,1 bis 5,690,52,2,0,15,30,54,0,0,49,225,330,0,0,90,0
+m,18-30,nein,ledig,ja,Montag,10-12 Uhr,< 10 km,1000-<2000,1 bis 5,192,0,0,0,0,0,0,0,0,192,0,0,0,0,0,0
+m,>60,nein,ledig,ja,Freitag,12-14 Uhr,< 10 km,1000-<2000,> 5,343,0,0,0,0,57,0,0,0,0,0,142,45,0,0,99
+w,31-40,nein,ledig,ja,Mittwoch,14-17 Uhr,10 - 25 km,1000-<2000,1 bis 5,257,0,0,0,75,12,28,0,188,84,14,58,0,0,27,0
+m,>60,ja,ledig,nein,Samstag,10-12 Uhr,10 - 25 km,<1000,> 5,434,0,9,2,177,48,264,0,267,164,98,0,0,0,81,0
+m,31-40,nein,Partnerschaft,ja,Mittwoch,>17 Uhr,< 10 km,>4500,1 bis 5,200,0,0,0,0,0,0,0,0,190,0,0,0,0,10,0
+m,>60,nein,Partnerschaft,nein,Dienstag,12-14 Uhr,10 - 25 km,2000-<3200,> 5,441,0,24,16,28,0,104,66,54,0,0,262,0,0,0,45
+w,18-30,ja,Partnerschaft,nein,Donnerstag,14-17 Uhr,< 10 km,1000-<2000,> 5,135,0,0,0,0,0,0,0,0,0,135,0,0,0,0,0
+w,18-30,ja,Partnerschaft,nein,Freitag,10-12 Uhr,< 10 km,1000-<2000,1 bis 5,169,0,0,0,0,0,0,0,0,0,118,0,0,0,87,51
+m,18-30,nein,ledig,ja,Dienstag,14-17 Uhr,< 10 km,1000-<2000,1 bis 5,109,0,0,0,0,0,109,0,0,0,0,0,0,0,0,0
+m,18-30,nein,ledig,ja,Samstag,<10 Uhr,< 10 km,2000-<3200,> 5,262,0,7,14,0,21,0,0,0,148,49,0,0,0,117,0
+m,51-60,nein,ledig,ja,Samstag,14-17 Uhr,< 10 km,<1000,> 5,121,0,0,0,0,0,0,0,0,0,0,121,0,0,0,0
+m,31-40,nein,Partnerschaft,nein,Montag,>17 Uhr,10 - 25 km,3200-<4500,0,347,0,0,0,0,0,0,0,0,69,90,240,17,0,0,0
+w,31-40,ja,ledig,nein,Freitag,14-17 Uhr,< 10 km,2000-<3200,0,330,0,0,0,37,0,0,0,0,64,117,168,8,0,30,0
+m,>60,ja,ledig,nein,Donnerstag,10-12 Uhr,< 10 km,2000-<3200,1 bis 5,26,0,0,0,0,0,0,0,0,74,26,0,0,0,99,0
+m,18-30,nein,ledig,ja,Montag,10-12 Uhr,< 10 km,1000-<2000,> 5,73,0,12,22,0,81,0,0,0,0,61,0,0,0,0,0
+m,>60,nein,Partnerschaft,ja,Dienstag,>17 Uhr,< 10 km,1000-<2000,1 bis 5,165,0,15,30,0,57,0,0,134,0,0,16,0,0,0,0
+w,>60,ja,ledig,ja,Samstag,10-12 Uhr,10 - 25 km,2000-<3200,> 5,454,140,8,0,0,100,0,0,0,0,0,306,0,0,0,0
+m,18-30,nein,ledig,ja,Montag,>17 Uhr,> 25 km,3200-<4500,> 5,585,0,3,26,126,24,118,0,0,183,0,219,54,0,0,0
+m,31-40,nein,ledig,ja,Mittwoch,>17 Uhr,< 10 km,1000-<2000,> 5,492,0,0,0,0,0,0,0,0,148,54,438,0,0,70,0
+m,41-50,nein,Partnerschaft,ja,Freitag,10-12 Uhr,10 - 25 km,1000-<2000,> 5,162,0,24,54,0,0,0,0,0,45,138,0,0,0,74,0
+w,41-50,nein,Partnerschaft,nein,Freitag,12-14 Uhr,10 - 25 km,1000-<2000,1 bis 5,113,0,27,0,7,0,0,0,0,0,11,0,44,0,81,0
+m,18-30,nein,Partnerschaft,ja,Samstag,>17 Uhr,> 25 km,>4500,1 bis 5,837,0,0,0,0,0,0,0,0,128,18,483,0,0,0,336
+w,51-60,ja,ledig,nein,Dienstag,12-14 Uhr,< 10 km,3200-<4500,> 5,63,31,10,0,0,0,0,0,0,22,0,0,0,0,0,0
+m,18-30,ja,ledig,ja,Samstag,>17 Uhr,< 10 km,2000-<3200,1 bis 5,712,27,0,0,90,0,118,0,170,234,52,189,54,0,0,0
+w,41-50,nein,ledig,ja,Mittwoch,>17 Uhr,< 10 km,3200-<4500,1 bis 5,365,43,14,18,86,25,200,0,8,0,189,0,0,0,28,0
+m,>60,nein,Partnerschaft,ja,Dienstag,12-14 Uhr,10 - 25 km,<1000,1 bis 5,22,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0
+m,31-40,ja,ledig,nein,Freitag,>17 Uhr,< 10 km,1000-<2000,0,394,0,21,18,0,0,0,0,0,68,52,0,0,0,0,0
+m,18-30,nein,Partnerschaft,ja,Freitag,<10 Uhr,10 - 25 km,3200-<4500,> 5,473,0,8,42,0,0,0,0,0,204,118,126,0,0,34,0
+m,51-60,nein,ledig,ja,Freitag,10-12 Uhr,10 - 25 km,2000-<3200,0,320,0,0,9,87,0,0,0,230,0,0,182,42,0,0,0
+w,18-30,nein,Partnerschaft,ja,Samstag,<10 Uhr,10 - 25 km,3200-<4500,1 bis 5,226,117,0,0,52,0,0,0,36,0,57,0,0,0,41,0
+w,41-50,ja,ledig,nein,Freitag,>17 Uhr,< 10 km,1000-<2000,1 bis 5,602,228,10,42,0,31,61,0,0,172,195,0,0,0,0,0
+m,41-50,nein,Partnerschaft,ja,Freitag,>17 Uhr,< 10 km,<1000,0,240,159,3,24,0,93,0,0,0,0,0,0,78,0,0,0
+m,>60,ja,ledig,ja,Donnerstag,10-12 Uhr,10 - 25 km,>4500,0,593,159,0,30,50,0,32,0,61,0,0,354,0,0,0,0
+m,18-30,ja,ledig,ja,Samstag,14-17 Uhr,< 10 km,1000-<2000,> 5,185,0,5,10,16,34,117,0,104,0,0,164,0,0,0,0
+w,>60,nein,ledig,nein,Montag,>17 Uhr,> 25 km,1000-<2000,0,356,0,0,0,0,0,0,198,0,0,0,96,0,62,0,0
+m,18-30,ja,ledig,ja,Freitag,12-14 Uhr,10 - 25 km,2000-<3200,0,96,0,0,0,0,0,0,0,0,255,96,0,0,0,126,0
+w,31-40,ja,ledig,nein,Donnerstag,10-12 Uhr,> 25 km,1000-<2000,0,118,0,0,0,0,0,0,0,0,0,0,118,0,0,0,0
+w,>60,ja,Partnerschaft,ja,Freitag,14-17 Uhr,< 10 km,2000-<3200,1 bis 5,542,0,21,0,73,45,0,124,160,201,54,270,0,0,42,0
+w,51-60,nein,ledig,ja,Freitag,>17 Uhr,< 10 km,1000-<2000,1 bis 5,122,64,0,0,0,0,0,0,0,0,0,58,0,0,0,0
+m,31-40,nein,ledig,ja,Samstag,12-14 Uhr,> 25 km,1000-<2000,0,95,92,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+w,41-50,nein,Partnerschaft,ja,Samstag,14-17 Uhr,< 10 km,1000-<2000,> 5,228,72,12,5,0,1,0,144,0,0,0,0,0,0,0,0
+m,>60,nein,Partnerschaft,ja,Samstag,>17 Uhr,< 10 km,2000-<3200,0,111,0,0,0,111,0,57,0,228,0,0,0,0,0,0,0
+w,>60,ja,ledig,nein,Freitag,10-12 Uhr,10 - 25 km,2000-<3200,> 5,285,44,6,27,93,42,0,0,0,102,70,0,72,0,52,0
+m,18-30,ja,ledig,nein,Samstag,10-12 Uhr,< 10 km,1000-<2000,> 5,426,100,2,48,0,0,0,0,0,0,0,324,0,0,0,0
+m,18-30,ja,Partnerschaft,nein,Montag,<10 Uhr,> 25 km,2000-<3200,1 bis 5,374,0,4,26,43,23,94,0,0,0,0,327,0,0,0,0
+m,18-30,nein,ledig,ja,Samstag,>17 Uhr,< 10 km,>4500,1 bis 5,262,0,5,12,99,3,79,0,0,0,82,58,0,0,33,0
+w,>60,nein,ledig,nein,Dienstag,12-14 Uhr,10 - 25 km,1000-<2000,0,248,120,14,20,80,0,192,0,84,0,0,0,34,0,0,0
+m,18-30,nein,ledig,nein,Montag,12-14 Uhr,10 - 25 km,>4500,1 bis 5,1083,171,9,0,102,186,65,0,75,204,105,546,24,0,9,0
+m,18-30,nein,ledig,nein,Donnerstag,>17 Uhr,10 - 25 km,2000-<3200,0,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+m,>60,nein,Partnerschaft,ja,Donnerstag,>17 Uhr,< 10 km,<1000,> 5,180,0,0,0,56,0,54,0,396,108,0,0,16,0,0,0
+m,18-30,nein,Partnerschaft,ja,Samstag,>17 Uhr,> 25 km,2000-<3200,0,27,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0
+m,41-50,nein,ledig,ja,Montag,>17 Uhr,< 10 km,3200-<4500,> 5,608,99,15,8,99,0,166,0,321,0,0,0,0,267,0,128
+m,31-40,nein,Partnerschaft,ja,Montag,10-12 Uhr,< 10 km,3200-<4500,1 bis 5,237,0,21,0,0,0,0,0,138,8,0,52,18,0,0,0
+m,31-40,nein,Partnerschaft,ja,Mittwoch,>17 Uhr,< 10 km,2000-<3200,0,350,0,0,0,96,0,0,0,0,40,37,0,0,0,63,0
+m,41-50,nein,Partnerschaft,nein,Samstag,10-12 Uhr,10 - 25 km,>4500,> 5,582,0,6,22,144,72,321,0,83,90,0,342,0,0,0,0
+m,31-40,nein,ledig,ja,Samstag,<10 Uhr,< 10 km,2000-<3200,> 5,149,0,1,18,0,0,0,0,0,130,0,0,0,0,0,0
+m,31-40,ja,ledig,ja,Donnerstag,10-12 Uhr,10 - 25 km,1000-<2000,1 bis 5,24,0,0,0,24,0,206,0,138,0,0,0,0,0,0,0
+w,>60,nein,Partnerschaft,nein,Donnerstag,>17 Uhr,10 - 25 km,<1000,> 5,312,60,0,0,11,0,128,192,62,140,49,0,0,0,114,0
+m,>60,ja,Partnerschaft,ja,Samstag,10-12 Uhr,< 10 km,2000-<3200,1 bis 5,245,0,12,14,48,117,342,0,219,0,19,0,0,0,0,0
+m,>60,ja,ledig,nein,Samstag,12-14 Uhr,< 10 km,3200-<4500,1 bis 5,926,0,0,0,92,38,0,57,8,0,159,558,0,0,56,0
+m,18-30,nein,Partnerschaft,ja,Dienstag,12-14 Uhr,10 - 25 km,1000-<2000,> 5,402,0,0,0,147,0,31,0,48,0,0,225,30,0,0,0
+m,51-60,ja,Partnerschaft,ja,Samstag,10-12 Uhr,< 10 km,>4500,> 5,113,0,0,0,0,0,0,0,0,0,0,65,48,0,0,0
+m,41-50,nein,Partnerschaft,nein,Montag,10-12 Uhr,10 - 25 km,2000-<3200,1 bis 5,48,0,15,15,0,39,0,0,0,0,0,0,0,0,0,0
+m,18-30,nein,ledig,nein,Dienstag,10-12 Uhr,< 10 km,2000-<3200,1 bis 5,215,0,14,48,87,14,186,0,112,0,0,0,26,0,0,88
+m,18-30,nein,ledig,ja,Montag,<10 Uhr,< 10 km,1000-<2000,> 5,44,0,0,0,0,0,0,0,0,146,44,0,0,0,44,0
+m,>60,nein,ledig,ja,Samstag,10-12 Uhr,10 - 25 km,<1000,1 bis 5,268,112,18,48,0,0,0,0,0,15,0,0,0,93,0,0
+m,>60,nein,Partnerschaft,ja,Donnerstag,<10 Uhr,> 25 km,1000-<2000,> 5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+m,>60,ja,ledig,ja,Mittwoch,>17 Uhr,> 25 km,<1000,0,289,0,1,0,0,84,0,0,204,0,0,0,0,0,0,0
+w,>60,ja,ledig,nein,Samstag,10-12 Uhr,< 10 km,>4500,1 bis 5,157,0,12,8,87,74,89,0,378,0,0,0,58,0,0,0
+m,31-40,ja,Partnerschaft,nein,Freitag,<10 Uhr,< 10 km,2000-<3200,> 5,400,20,0,0,70,0,0,0,198,38,21,138,37,0,63,114
+m,41-50,ja,Partnerschaft,nein,Freitag,14-17 Uhr,< 10 km,2000-<3200,> 5,136,0,6,0,0,12,0,0,0,0,0,124,0,0,0,0
+w,>60,ja,ledig,ja,Donnerstag,>17 Uhr,< 10 km,<1000,> 5,212,0,9,18,18,78,107,0,336,0,0,148,13,0,0,0
+m,51-60,nein,ledig,ja,Samstag,10-12 Uhr,< 10 km,1000-<2000,0,86,0,5,10,0,32,0,0,0,0,0,0,81,0,0,0
+m,31-40,ja,Partnerschaft,nein,Samstag,12-14 Uhr,< 10 km,1000-<2000,> 5,419,0,6,0,50,0,64,0,0,0,39,0,0,0,42,0
+m,51-60,nein,Partnerschaft,ja,Dienstag,14-17 Uhr,< 10 km,2000-<3200,1 bis 5,220,0,0,26,0,75,57,0,0,0,0,0,0,0,0,62
+m,31-40,nein,Partnerschaft,ja,Samstag,<10 Uhr,10 - 25 km,<1000,1 bis 5,292,0,0,0,68,0,74,0,97,0,36,102,0,0,50,22
+w,>60,ja,ledig,nein,Donnerstag,10-12 Uhr,10 - 25 km,2000-<3200,0,278,140,0,0,8,0,309,0,507,0,0,98,32,0,0,0
+w,18-30,nein,Partnerschaft,ja,Freitag,14-17 Uhr,< 10 km,3200-<4500,1 bis 5,233,195,2,18,0,64,0,0,0,162,36,0,0,0,80,0
+w,>60,nein,Partnerschaft,nein,Dienstag,10-12 Uhr,10 - 25 km,2000-<3200,> 5,673,68,21,24,0,120,0,0,0,65,189,0,0,52,74,0
+m,>60,ja,Partnerschaft,ja,Montag,14-17 Uhr,10 - 25 km,2000-<3200,> 5,513,276,15,30,60,0,168,0,372,0,0,0,48,0,0,0
+w,>60,nein,ledig,ja,Freitag,14-17 Uhr,> 25 km,>4500,0,156,0,0,0,0,0,0,0,0,115,96,0,10,50,33,0
+w,41-50,nein,Partnerschaft,ja,Freitag,12-14 Uhr,10 - 25 km,1000-<2000,1 bis 5,69,0,1,0,50,0,41,0,57,0,0,0,0,0,0,0
+m,31-40,ja,Partnerschaft,nein,Freitag,12-14 Uhr,> 25 km,1000-<2000,> 5,32,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0
+m,31-40,ja,ledig,ja,Freitag,>17 Uhr,10 - 25 km,<1000,0,245,56,0,0,99,0,67,0,0,60,0,30,0,0,0,0
+w,18-30,nein,ledig,ja,Mittwoch,<10 Uhr,< 10 km,3200-<4500,> 5,139,0,0,57,0,0,0,0,0,0,0,82,0,0,0,0
+m,31-40,ja,ledig,ja,Mittwoch,14-17 Uhr,10 - 25 km,3200-<4500,> 5,369,33,12,24,0,28,0,0,0,78,52,120,26,118,45,0
+m,31-40,nein,ledig,ja,Mittwoch,10-12 Uhr,< 10 km,1000-<2000,> 5,222,0,0,0,147,0,118,0,114,0,0,0,75,0,0,0
+m,>60,nein,ledig,ja,Samstag,12-14 Uhr,< 10 km,2000-<3200,1 bis 5,640,0,0,0,0,0,0,0,0,198,0,378,64,0,0,0
+w,18-30,nein,Partnerschaft,nein,Samstag,14-17 Uhr,> 25 km,<1000,> 5,559,0,4,2,66,84,144,0,107,14,90,399,0,0,108,0
+w,>60,ja,ledig,nein,Freitag,12-14 Uhr,10 - 25 km,1000-<2000,> 5,145,0,0,27,0,0,0,0,0,0,0,0,0,118,0,0
+m,>60,ja,Partnerschaft,nein,Freitag,12-14 Uhr,10 - 25 km,3200-<4500,> 5,494,0,0,32,88,90,40,0,0,128,62,0,0,0,0,0
+m,18-30,ja,Partnerschaft,nein,Freitag,10-12 Uhr,10 - 25 km,2000-<3200,> 5,214,0,0,12,0,0,0,0,0,0,0,202,0,0,0,0
+w,18-30,nein,ledig,ja,Mittwoch,>17 Uhr,> 25 km,1000-<2000,1 bis 5,545,0,10,16,0,44,154,0,204,61,50,0,0,0,84,0
+w,18-30,nein,ledig,nein,Donnerstag,>17 Uhr,< 10 km,2000-<3200,> 5,271,0,0,0,81,43,381,0,21,135,147,0,0,0,114,0
+m,41-50,ja,Partnerschaft,ja,Donnerstag,>17 Uhr,10 - 25 km,>4500,0,313,0,0,0,0,0,0,0,0,0,0,222,0,91,0,0
+m,18-30,nein,Partnerschaft,ja,Samstag,12-14 Uhr,< 10 km,1000-<2000,> 5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+m,41-50,nein,ledig,ja,Dienstag,>17 Uhr,10 - 25 km,2000-<3200,> 5,53,0,18,39,0,126,0,0,0,0,0,0,0,0,0,0
