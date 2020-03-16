@@ -8,7 +8,7 @@ public class DatabaseCon {
 	public static void main(String args[]) {
 		try {
 			Connection conn = null;
-			conn = DriverManager.getConnection("jdbc:mysql://localhost/spm_test", "root", "");
+			conn = DriverManager.getConnection("jdbc:mysql://localhost/", "root", "");
 			System.out.print("Database is connected !");
 			conn.close();
 		} catch (Exception e) {
