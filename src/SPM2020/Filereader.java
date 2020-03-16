@@ -3,6 +3,7 @@ package SPM2020;
 import java.io.*;
 import java.util.*;
 
+
 public class Filereader {
 	
 	static String filename = ".\\Kundendaten\\kd100.csv";
