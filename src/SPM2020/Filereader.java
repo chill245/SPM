@@ -5,7 +5,7 @@ import java.util.*;
 
 public class Filereader {
 	
-	static String filename = "C:\\SPM\\kd100.csv";
+	static String filename = ".\\Kundendaten\\kd100.csv";
 	
 	public static void main(String[] args) {
 		File kdFile = new File(filename);
