@@ -150,7 +150,7 @@ public class WekaBspStud {
 	public static void main(String[] args) throws Exception {
 
 		// Eigenen Dateipfad eintragen, nicht meinen nehmen ;-)
-		String path = "D:\\temp\\SPM\\KundenDaten";
+		String path = ".\\KundenDaten\\";
 		String roh = path + "kd1000.csv";
 		String arffDat = path + "kd_2020.arff";
 
