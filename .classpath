@@ -6,6 +6,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/Java/SPM\SPM/KundenDaten/mariadb-java-client-2.5.4.jar"/>
+	<classpathentry kind="lib" path="D:/temp/SPM/ExternalJars/weka.jar"/>
+	<classpathentry kind="lib" path="D:/temp/SPM/ExternalJars/mariadb-java-client-2.5.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
