@@ -1,0 +1,26 @@
+Branch erstellen in git über Eclipse:
+
+1.) Neueste Version des Master-Branch pullen
+
+2.a) Rechtsklick auf Projekt -> Team -> Switch To -> New Branch
+2.b) Sinnvollen Namen für Branch vergeben (evtl. name + datum; feature das implementiert werden soll o.Ä.), dann finish clicken
+
+3.) In Eclipse programmieren und implementieren wie gehabt, pushen wenn fertig
+
+4.) Bei Pushen: einfach durch dialoge durchclicken (next -> finish -> close)
+
+
+Branch mergen:
+
+in github:
+
+1) zu Projektseite gehen -> zu branches wechseln
+
+2) Branch heraussuchen -> New Pull Request auswählen
+
+3) im Folgefenster wird angezeigt ob automatisch gemergt werden kann (grüner Haken), wenn ja, dann "create pull request"
+   klicken, im Folgefenster wird nochmal serverseitig geprüft, ist auch hier alles in Ordnung dann einfach "merge pull request"
+   klicken und merge bestätigen.
+   
+4) Beim nächsten Start von Eclipse nicht vergessen zunächst wieder auf den master zu wechseln und neu zu pullen
+   (Standardmäßig würde Eclipse noch mit der lokalen Version des gemergten branches weiterarbeiten, was später zu Problemen führen kann)
